@@ -13,7 +13,7 @@ const Video = () => {
               <p>World's first civilian space travel</p>
          
             <div className='video__button'>
-              <Link to='/traning' className='btn'>Traing</Link>
+              <Link to='/training' className='btn'>Traing</Link>
               <Link to='/contact' className='btn btn-light'>Launch</Link>
             </div>
         </div>
